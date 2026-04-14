@@ -62,13 +62,18 @@ python -m venv venv
 source venv/bin/activate   # Linux/Mac
 venv\Scripts\activate      # Windows
 ```
+### 3. Create .env File
+Create a .env file in the root folder:
+```
+SERPAPI_KEY="your_api_key_here"
+```
 
-### 3. Install Dependencies
+### 4. Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Run the Application
+### 5. Run the Application
 ```bash
 uvicorn backend.main:app --reload
 ```
