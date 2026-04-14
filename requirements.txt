@@ -1,0 +1,15 @@
+# Core dependencies
+fastapi
+uvicorn
+jinja2
+python-dotenv
+requests
+python-multipart
+# Image processing & numerical operations
+Pillow
+numpy
+torch  
+transformers  
+
+ultralytics  
+serpapi 
