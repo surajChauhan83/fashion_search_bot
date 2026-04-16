@@ -48,7 +48,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/surajChauhan83/fashion_search_bot.git
 cd fashion_search_bot
 ```
 
